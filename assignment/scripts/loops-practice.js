@@ -12,6 +12,7 @@ for (let i = 0; i < 4; i++) {
 
 // 1.a. TODO: Write a for loop to console.log the numbers from 0 to 5 
 //   - Which part of the example loop do you need to change to do this?
+// Changed the code i < 4 to i < 6
 console.log('count from 0 to 5');
 for (let i = 0;i < 6; i++){
   console.log(i)
@@ -19,7 +20,11 @@ for (let i = 0;i < 6; i++){
 
 // 1.b. TODO: Write a for loop to console.log the numbers from 3 to 5
 //   - Which part of the example loop do you need to change to do this?
+// Need to change i = 0 to i = 3
 console.log('count from 3 to 5');
+for (let i = 3; i < 6; i++){
+  console.log(i)
+}
 
 // 1.c. TODO: Write a for loop to console.log EVEN numbers from 2 to 10
 //   - Which part of the example loop do you need to change to do this?
