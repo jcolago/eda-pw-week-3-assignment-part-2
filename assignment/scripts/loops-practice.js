@@ -62,7 +62,7 @@ console.log('Some stars using while:');
 let y = stars.length;
 let x = 0;
 while (x < y){
-  console.log(stars[x] + "");
+  console.log(stars[x]);
   x = x+1;
 }
 
